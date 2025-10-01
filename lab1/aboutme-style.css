@@ -1,0 +1,13 @@
+body {background-color: #595547;
+	  font-family: "Verdana";
+	  color: white;
+	  width: 800px;}
+h1, h2 {color: #9FC2F8;}
+h1 {font-size: 80pt;}
+strong {color: #FF00FF;}
+a {color: #FF4F4F;}
+
+a, a:visited {text-decoration: none}
+a:hover {text-decoration: underline;}
+p:first-letter {font-weight: bold;
+				font-size: 250%}
